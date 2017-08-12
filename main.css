@@ -14,6 +14,11 @@ button:hover {
   cursor: pointer;
 }
 
+.container {
+  text-align: center;
+  
+}
+
 #shopping-list-item {
   width: 250px;
 }
@@ -40,6 +45,15 @@ button:hover {
   font-style: italic;
   font-size: 20px;
   margin-bottom: 15px;
+}
+
+.shopping-qty {
+  display: block;
+  color: grey;
+  font-style: italic;
+  font-size: 20px;
+  margin-bottom: 15px;
+  
 }
 
 .shopping-item__checked {
